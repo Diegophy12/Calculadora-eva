@@ -1,0 +1,45 @@
+input[type=button] 
+{
+background-color: rgb(118, 230, 129);
+border: none;
+color: black;
+font-weight: bold;
+padding: 6px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+margin: 4px 4px;
+cursor: pointer;
+box-shadow: 3px 3px 3px rgb(73, 177, 83);
+}
+
+input[type="text"]
+{
+border: solid;
+color: black;
+padding: 15px 32;
+text-align: right;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+width: 93%;
+box-shadow: 3px 3px 3px rgb(168, 65, 165);
+}
+
+body
+{
+    height: 760px;
+  background-size: cover;
+  background-image: url("https://cde.laprensa.e3.pe/ima/0/0/2/2/2/222729.jpg");
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+table 
+{
+background-color: rgb(204, 101, 218);   
+padding: 5px 5px;
+}
